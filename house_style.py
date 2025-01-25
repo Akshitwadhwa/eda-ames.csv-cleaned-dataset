@@ -13,4 +13,6 @@ Below is the explanation of what each of the given data
 5FIN-- 5 story and which is finished
 5unf-- 5 story and which is unfinished
 1Story-- 1 story building
+2.5Fin = These are all the houses which have got 2 stories and a half , that half can be a patio or balcony
+2.5Unf = this is a 2.5 story house which is unfinished
 
